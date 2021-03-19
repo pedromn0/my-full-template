@@ -1,6 +1,6 @@
 # First simple web page.
 
-Welcome! This is an exercise proposed by [Code Institute](https://codeinstitue.net) for the students to learn how to create a webpage and deploy it.
+Welcome! This is an exercise proposed by [Code Institute](https://codeinstitute.net/) for the students to learn how to create a webpage and deploy it.
 
 
 ## Project Description
